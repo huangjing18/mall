@@ -1,0 +1,124 @@
+<template>
+  <div>
+    <scroll :probeType="3" class="content">
+
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>11</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+        <li>1</li>
+      </scroll
+    >
+  </div>
+</template>
+<script>
+import Scroll from "../../components/common/scroll/Scroll.vue";
+export default {
+  components: { Scroll },
+  data() {
+    return {};
+  },
+  methods: {},
+};
+</script>
+<style scoped>
+.content{
+  height: 100px;
+  background-color: rgb(194, 28, 28);
+}
+</style>
